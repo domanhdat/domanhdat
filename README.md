@@ -36,9 +36,7 @@
 
 ---
 
-[website]: http://react-plus.com.com
-[twitter]: https://twitter.com/codeSTACKr
+[website]: http://react-plus.com
 [gmail]: mailto:dodat10.93@gmail.com
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/dat-do-b53a52133/
 [webdevplaylist]: http://react-plus.com.com
