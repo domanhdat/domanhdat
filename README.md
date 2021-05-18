@@ -1,10 +1,9 @@
 ### Hi there, I'm Dat 👋
 
 ## I'm a Developer
-- 🔭 I’m currently working at [React Plus Company][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
